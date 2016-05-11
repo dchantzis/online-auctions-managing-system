@@ -3,9 +3,9 @@
 ## UML Study: Online Auctions Managing System
 **Built date:** 2004
 
-**Documentation:** [PDF](https://github.com/dchantzis/)
+**Documentation:** [PDF](https://github.com/dchantzis/online-auctions-managing-system/blob/master/online-auction-managing-system%5Bgreek%5D.pdf)
 
-**Git Repo:** [https://github.com/dchantzis/]()
+**Git Repo:** [https://github.com/dchantzis/online-auctions-managing-system](https://github.com/dchantzis/online-auctions-managing-system)
 
 This is a semester project participating in the "Programming Methodologies II" class for the BSc(Hons) in Informatics Engineering at the Department of Information Technology, Thessaloniki, Greece.
 
